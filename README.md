@@ -1,0 +1,1 @@
+# blogmura_widget_manager
