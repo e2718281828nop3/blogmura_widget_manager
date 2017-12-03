@@ -2,15 +2,15 @@
 // @name         Blogmura Widget Manager
 // @namespace    https://github.com/e2718281828nop3/
 // @version      0.1
-// @description  manage widgets
-// @author       e2.718281828.nop3
-// @copyright  2017, e2.718281828.nop3 (https://github.com/e2718281828nop3/)
-// @license       GPLv3
+// @description  manage blogmura widgets
+// @author       e2718281828nop3
+// @copyright    2017, e2718281828nop3 (https://github.com/e2718281828nop3/)
+// @license      GPLv3
 // @match        http*://*.blogmura.com/*
-// @require      https://raw.githubusercontent.com/e2718281828nop3/javascripts/master/utilities/ext/object.js
-// @require      https://raw.githubusercontent.com/e2718281828nop3/javascripts/master/utilities/ext/array.js
-// @require      https://raw.githubusercontent.com/e2718281828nop3/javascripts/master/utilities/ext/dom.js
-// @require      https://raw.githubusercontent.com/e2718281828nop3/javascripts/master/utilities/class/storage.js
+// @require      https://github.com/e2718281828nop3/javascripts/raw/master/utilities/ext/object.js
+// @require      https://github.com/e2718281828nop3/javascripts/raw/master/utilities/ext/array.js
+// @require      https://github.com/e2718281828nop3/javascripts/raw/master/utilities/ext/dom.js
+// @require      https://github.com/e2718281828nop3/javascripts/raw/master/utilities/class/storage.js
 // @grant        none
 // ==/UserScript==
 
