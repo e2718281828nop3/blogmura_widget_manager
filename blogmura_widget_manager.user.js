@@ -5,7 +5,7 @@
 // @description  manage blogmura widgets
 // @author       e2718281828nop3
 // @copyright    2017, e2718281828nop3 (https://github.com/e2718281828nop3/)
-// @license      GPLv3
+// @license      GPL-3.0
 // @match        http*://*.blogmura.com/*
 // @require      https://github.com/e2718281828nop3/javascripts/raw/master/utilities/ext/object.js
 // @require      https://github.com/e2718281828nop3/javascripts/raw/master/utilities/ext/array.js
