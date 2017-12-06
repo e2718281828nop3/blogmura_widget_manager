@@ -5,7 +5,7 @@
 // ==UserScript==
 // @name         Blogmura Widget Manager
 // @namespace    https://github.com/e2718281828nop3/
-// @version      0.1
+// @version      0.2
 // @description  manage blogmura widgets
 // @author       e2718281828nop3
 // @copyright    2017, e2718281828nop3 (https://github.com/e2718281828nop3/)
