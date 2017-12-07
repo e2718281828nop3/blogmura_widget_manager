@@ -15,7 +15,7 @@
 // @require      https://github.com/e2718281828nop3/javascripts/raw/master/utilities/ext/array.js
 // @require      https://github.com/e2718281828nop3/javascripts/raw/master/utilities/ext/dom.js
 // @require      https://github.com/e2718281828nop3/javascripts/raw/master/utilities/class/storage.js
-// @require      https://github.com/e2718281828nop3/blogmura_widget_namager/raw/master/widget_manager.js
+// @require      https://github.com/e2718281828nop3/blogmura_widget_manager/raw/master/widget_manager.js
 // ==/UserScript==
 
     const APP_NAME = 'BlogmuraWidgetManager';
