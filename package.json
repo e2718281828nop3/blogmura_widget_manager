@@ -1,0 +1,23 @@
+{
+  "name": "blogmura_widget_manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blogmura_widget_manager.user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e2718281828nop3/blogmura_widget_manager.git"
+  },
+  "keywords": [],
+  "author": "e2718281828nop3",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/e2718281828nop3/blogmura_widget_manager/issues"
+  },
+  "homepage": "https://github.com/e2718281828nop3/blogmura_widget_manager#readme",
+  "devDependencies": {
+    "eslint": "^4.12.1"
+  }
+}
